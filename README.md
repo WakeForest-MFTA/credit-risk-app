@@ -50,6 +50,13 @@ All AI usage should be documented, including:
 * Add explainability tools (e.g., SHAP)
 * Deploy as an API or interactive app
 
+* ## Getting Started
+
+1. Clone this repository
+2. Explore the notebook
+3. Modify features or models
+4. Document your approach and results
+
 ## Context within MFTA
 
 This project reflects the program’s focus on applying analytics and AI to real-world financial systems, with emphasis on both technical execution and responsible model use.
