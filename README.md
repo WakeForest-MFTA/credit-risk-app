@@ -50,12 +50,12 @@ All AI usage should be documented, including:
 * Add explainability tools (e.g., SHAP)
 * Deploy as an API or interactive app
 
-* ## Getting Started
+## Getting Started
 
-1. Clone this repository
-2. Explore the notebook
-3. Modify features or models
-4. Document your approach and results
+* Clone this repository
+* Explore the notebook
+* Modify features or models
+* Document your approach and results
 
 ## Context within MFTA
 
